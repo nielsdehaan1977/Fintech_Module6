@@ -10,7 +10,7 @@
 
 ### This Jupyter notebook can be used as a Housing Rental Analysis tool and utilizes interactive visualizations and geospatial analysis to provide the user with information to find viable investment opportunities in real estate. 
 
-The tool first analyzes the overall trend in an area/city and then goes deeper into sections of that area/city by comparing trends in neighborhoods. That are visible in various interactive visualizations to help the user decide where best to invest. 
+The tool first analyzes the overall trend in an area/city and then goes deeper into sections of that area/city by comparing trends in neighborhoods. Analysis and trends are displayed in various interactive visualizations to help the user decide where best to invest. 
 The tool uses the PyViz ecosystem which includes boht hvPlot and GeoViews. PyViz is a Python visualization package that provides a single platform for accessing multiple visualization libraries.
 
 ---
@@ -65,7 +65,7 @@ Jupyter Lab can be started by:
 
 To use the San Francisco housing jupyter lab notebook, simply clone the full repository and open the **san_francisco_housing.ipynb** file in Jupyter Lab. 
 
-The tool will go through all the steps of financial planning:
+The tool will go through the following steps:
 
 ### Analyse city/area data
 * Evaluate the sqft price for renting and buying in a city/area. 
@@ -74,7 +74,7 @@ The tool will go through all the steps of financial planning:
 * Evaluate the sqft price for renting and buying per neighborhood in a city/area. 
 
 ### Visualize results for easy decision making
-* Tool provides a number of useful interactive graphs and an interactive map to make it easier to understand where viable investment opportunities in an area exist. 
+* Lastly the tool provides a number of useful interactive graphs and an interactive map to make it easier to understand where viable investment opportunities in an area exist. 
 
 ## Contributor(s)
 
